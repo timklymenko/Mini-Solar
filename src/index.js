@@ -1,7 +1,6 @@
 // @flow
 import React from 'react'
 import ReactDOM from 'react-dom'
-import './static/daypicker.css'
 
 import App from './App'
 
