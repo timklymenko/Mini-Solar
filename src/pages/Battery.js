@@ -50,33 +50,5 @@ const sidebar = {
 export default function Battery() {
   const classes = useStyles()
 
-  return (
-    <h5> Under construction.</h5>
-    // <React.Fragment>
-    //   <CssBaseline />
-    //   <Container maxWidth="lg">
-    //     <main>
-    //       <MainFeaturedPost post={mainFeaturedPost} />
-    //       <Grid container spacing={4}>
-    //         {featuredPosts.map((post) => (
-    //           <FeaturedPost key={post.title} post={post} />
-    //         ))}
-    //       </Grid>
-    //       <Grid container spacing={5} className={classes.mainGrid}>
-    //         <Main title="Read more about the project..." />
-    //         <Sidebar
-    //           title={sidebar.title}
-    //           description={sidebar.description}
-    //           archives={sidebar.archives}
-    //           social={sidebar.social}
-    //         />
-    //       </Grid>
-    //     </main>
-    //   </Container>
-    //   <Footer
-    //     title="Mini Solar UI Portal"
-    //     description="Stay tuned for additional functionality!"
-    //   />
-    // </React.Fragment>
-  )
+  return <h5> Under construction.</h5>
 }
